@@ -54,9 +54,6 @@ In this project, you will:
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 Special thanks to the creators of Genkit, dotprompt, and Google Cloud Platform for their tools and services.
 
