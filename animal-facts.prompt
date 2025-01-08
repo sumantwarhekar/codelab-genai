@@ -1,0 +1,12 @@
+---
+model: vertexai/gemini-1.5-flash
+config:
+temperature: 0.9
+input:
+schema:
+    animal: string
+default:
+    animal: dog
+---
+
+Give me 10 fun facts about {{animal}}. Return the results as HTML without markdown backticks.
